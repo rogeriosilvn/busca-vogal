@@ -1,4 +1,4 @@
-package br.com.raminelli.busca.vogal.excepction;
+package br.com.raminelli.busca.vogal.exception;
 
 @SuppressWarnings("serial")
 public class VogalNotFoundException extends RuntimeException {

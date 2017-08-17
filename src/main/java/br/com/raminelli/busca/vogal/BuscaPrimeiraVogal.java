@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
-import br.com.raminelli.busca.vogal.excepction.VogalNotFoundException;
+import br.com.raminelli.busca.vogal.exception.VogalNotFoundException;
 
 public class BuscaPrimeiraVogal {
 	

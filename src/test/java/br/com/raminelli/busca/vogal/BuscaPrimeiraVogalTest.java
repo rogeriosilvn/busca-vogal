@@ -3,7 +3,7 @@ package br.com.raminelli.busca.vogal;
 import org.junit.Assert;
 import org.junit.Test;
 
-import br.com.raminelli.busca.vogal.excepction.VogalNotFoundException;
+import br.com.raminelli.busca.vogal.exception.VogalNotFoundException;
 
 public class BuscaPrimeiraVogalTest {
 	
